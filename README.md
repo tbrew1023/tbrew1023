@@ -1,4 +1,4 @@
-# Hi, my name's Trent
+# Hi, my name's Trent 👋🏿
 
 I'm a designer who loves to code
 
