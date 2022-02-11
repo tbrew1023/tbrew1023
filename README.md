@@ -1,10 +1,8 @@
-## Hi, I'm Trent 👋🏿
+# Hi, I'm Trent 👋🏿
 
 I'm designer who loves to code.
 
 Check out my work at <a href="https://djreider.com/" target="_blank"> trentbrew.com </a>
-
----
 
 <div align="left">
   <a href="https://www.linkedin.com/in/david-reider-408578165/" target="_blank"><img alt="LinkedIn" src="https://github.com/trentbrew/portfolio2022/blob/main/src/assets/icons/in.png?raw=true"/></a>
