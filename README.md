@@ -1,4 +1,4 @@
-Hi, my name's Trent
+# Hi, my name's Trent
 
 I'm a designer who loves to code
 
@@ -6,7 +6,7 @@ Check out my work at <a href="https://djreider.com/" target="_blank"> trentbrew.
 
 --- 
 
-Follow me:
+### Follow me:
 
 <div align="left">
    <a href="https://twitter.com/trent_brew"><img alt="Twitter" src="https://raw.githubusercontent.com/trentbrew/portfolio2022/826bc60a5b2adf48f4786d570975d5bec034ce4b/src/assets/icons/t.svg"/></a>
