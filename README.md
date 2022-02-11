@@ -1,6 +1,6 @@
 # Hi, I'm Trent 👋🏿
 
-I'm designer who loves to code. Check out my work at <a href="https://trentbrew.com/" target="_blank"> trentbrew.com </a>
+I'm a designer who loves to code. Check out my work at <a href="https://trentbrew.com/" target="_blank"> trentbrew.com </a>
 
 
 <br><div align="left">
