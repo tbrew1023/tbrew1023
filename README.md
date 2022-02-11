@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Trent
 
 <!--
 **tbrew1023/tbrew1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
