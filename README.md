@@ -1,16 +1,16 @@
-### o hai
+# O Hello <img src="https://media0.giphy.com/media/l4XPnazdagyhZBSUja/giphy.gif?cid=790b7611f2c3714afa6e37f67a94016c62e7a5e5763e1fdf&rid=giphy.gif&ct=s" width="30px">
 
-<!--
-**tbrew1023/tbrew1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm <a href="https://www.linkedin.com/in/trentbrew" target="_blank">Trent</a>
 
-Here are some ideas to get you started:
+I'm a designer who loves to code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my work at <a href="https://djreider.com/" target="_blank"> trentbrew.com </a>
+
+--- 
+
+<h3 align="left">Connect with me:</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/david-reider-408578165/"><img alt="LinkedIn" src="https://github.com/trentbrew/portfolio2022/blob/main/src/assets/icons/in.png?raw=true"/></a>
+  <a href="mailto:hello@trentbrew.com"><img alt="Gmail" src="https://raw.githubusercontent.com/trentbrew/portfolio2022/826bc60a5b2adf48f4786d570975d5bec034ce4b/src/assets/icons/mail2.svg"/></a>
+  <a href="https://twitter.com/trent_brew"><img alt="Twitter" src="https://raw.githubusercontent.com/trentbrew/portfolio2022/826bc60a5b2adf48f4786d570975d5bec034ce4b/src/assets/icons/t.svg"/></a>
+</div>
