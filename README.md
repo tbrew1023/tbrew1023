@@ -1,4 +1,4 @@
-# Hi, I'm Trenton 👋🏾
+# Hi, I'm Trent 👋🏾
 
 I'm a designer who loves to code. Check out my work at <a href="https://trentbrew.com/" target="_blank"> trentbrew.com </a>
 
